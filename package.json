@@ -1,0 +1,17 @@
+{
+  "name": "sourcemap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.es6.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build":"babel index.es6.js --out-file index.js --source-maps",
+    "start": "node --inspect --debug-brk index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "^6.16.0",
+    "babel-preset-latest": "^6.16.0"
+  }
+}

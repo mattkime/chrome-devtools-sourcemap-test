@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.es6.js"],"names":[],"mappings":";;AAAA,IAAM,SAAS,SAAT,MAAS,CAAC,CAAD;AAAA,SAAO,IAAI,CAAX;AAAA,CAAf;;AAEA,QAAQ,GAAR,CAAa,OAAO,CAAP,CAAb","file":"index.js","sourcesContent":["const square = (x) => x * x;\n\nconsole.log( square(2) );\n"]}
