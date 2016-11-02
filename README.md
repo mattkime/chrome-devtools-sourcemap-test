@@ -1,6 +1,6 @@
 # chrome-devtools-sourcemap-test
 
-This project exposes flaws with Chrome DevTools Node.js sourcemap support.
+This project exposes a flaw with Chrome DevTools Node.js sourcemap support - source files are not displayed in the source file list. 
 
 Verification of existing index.js sourcemap -
 
